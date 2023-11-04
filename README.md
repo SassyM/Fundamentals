@@ -1,0 +1,2 @@
+# Fundamentals
+Python, NumPy Basics
